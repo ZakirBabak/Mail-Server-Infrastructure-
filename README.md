@@ -54,8 +54,9 @@ It simulates a real enterprise mail system including SMTP, IMAP, webmail access,
 
 ## Documentation
 
-Full technical documentation and screenshots are included in the PDF file:
-`/docs/Mail-Server-Infrastructure-Portfolio.pdf`
+All technical documentation, configuration details, and screenshots are included in the project report:
+
+Mail-Server-Infrastructure-Portfolio.pdf
 
 ---
 
